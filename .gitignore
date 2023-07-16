@@ -10,3 +10,5 @@
 *.sqlite
 .vs/slnx.sqlite
 *.sqlite
+.vs/slnx.sqlite
+.vs/*
